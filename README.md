@@ -13,12 +13,12 @@ In this case, the donor pool consists of 15 OECD countries that did not join the
 
 The hope_emu.csv file contains data on these 16 countries across the years 1980 to 2010. The data includes the following variables:
 
-period – the year of observation
-country_ID – the country of observation
-country_no – a numeric country identifier
-CAB – current account balance
-GDPPC_PPP – GDP per capita, purchasing power adjusted
-invest – Total investment as a % of GDP
+1.period – the year of observation
+1.country_ID – the country of observation
+1.country_no – a numeric country identifier
+1.CAB – current account balance
+1.GDPPC_PPP – GDP per capita, purchasing power adjusted
+1.invest – Total investment as a % of GDP
 gov_debt – Government debt as a % of GDP
 openness – trade openness
 demand – domestic demand growth
