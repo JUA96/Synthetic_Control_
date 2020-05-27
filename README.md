@@ -3,7 +3,7 @@
 Synthetic control methods are a relatively new addition to the roster of causal inference techniques used in applied political science work.
 The best place to start reading therefore is this article by Abadie et al (2015) in the American Journal of Political Science.
 
-The effect of Economic and Monetary Union on Current Account Balances – Hope (2016)
+## The effect of Economic and Monetary Union on Current Account Balances – Hope (2016)
 
 In early 2008, about a decade after the Euro was first introduced, the European Commission published a document looking back at the currency’s short history and concluded that the European Economic and Monetary Union was a “resounding success”. By the end of 2009 Europe was at the beginning of a multiyear sovereign debt crisis, in which several countries – including a number of Eurozone members – were unable to repay or refinance their government debt or to bail out over-indebted banks. Although the causes of the Eurocrisis were many and varied, one aspect of the pre-crisis era that became particularly damaging after 2008 were the large and persistent current account deficits of many member states. Current account imbalances – which capture the inflows and outflows of both goods and services and investment income – were a marked feature of the post-EMU, pre-crisis era, with many countries in the Eurozone running persistent current account deficits (indicating that they were net borrowers from the rest of the world). Large current account deficits make economies more vulnerable to external economic shocks because of the risk of a sudden stop in capital used to finance government deficits.
 
